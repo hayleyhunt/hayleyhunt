@@ -20,7 +20,7 @@
 
 ### Himalayan River Network Response To Progressive Himalayan Uplift, PhD project (2022-present)
 <p>
-  • Creating landscape evolution numerical models of the Himalaya using FastScape and xarray-simlab, implemented in Python.</br>
+  • Creating landscape evolution numerical models of the Himalaya using <a href="https://fastscape.org">FastScape</a> and <a href="https://xarray-simlab.readthedocs.io/en/latest/">xarray-simlab</a>, implemented in Python.</br>
   • Running multiple models over a complex search space to find the optimal hyperparameters via distributed computing using the <a href="https://github.com/ARM-software/mango">Mango</a> hyperparameter tuning library.</br>
   • Aggregrating and visualising data using numpy, pandas and matplotlib to understand model behaviour by presenting different aspects of the model including river profiles and changes in topography through time.</br>
   • Calibrating model outputs to reality by creating a misfit function and validated the model using multiple independent datasets including thermochronologic, GPS, and cosmogenic nuclide data.
@@ -28,7 +28,7 @@
 
 ### Himalayan Biotic Response To Progressive Mountain Uplift, PhD project (2020-present)
 <p>
-  • Utilising the DECX (Dispersal-Extinction-Cladogenesis eXtended) numerical model to estimate ancestral areas of different species located in the Himalaya at present-day with dated phylogenies, present-day species distribution, and time-stratified paleogeographic matrices.</br>
+  • Utilising the <a href="https://www.biorxiv.org/content/10.1101/038695v1">DECX</a> (Dispersal-Extinction-Cladogenesis eXtended) numerical model to estimate ancestral areas of different species located in the Himalaya at present-day with dated phylogenies, present-day species distribution, and time-stratified paleogeographic matrices.</br>
   • Aggregrating and visualising data in Python using numpy, pandas and matplotlib to show species migration into and out of regions of the Himalaya during their formation.
 </p>
 
