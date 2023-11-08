@@ -21,6 +21,7 @@
 ### Himalayan River Network Response To Progressive Himalayan Uplift, PhD project (2022-present)
 <p>
   • Creating landscape evolution numerical models of the Himalaya using FastScape and xarray-simlab, implemented in Python.</br>
+  • Running models over a complex search space to find the optimal hyperparameters via distributed computing using the <a href="https://github.com/ARM-software/mango">Mango</a> hyperparameter tuning library.</br>
   • Aggregrating and visualising data using numpy, pandas and matplotlib to understand model behaviour by presenting different aspects of the model including river profiles and changes in topography through time.</br>
   • Calibrating model outputs to reality by creating a misfit function and validated the model using multiple independent datasets including thermochronologic, GPS, and cosmogenic nuclide data.
 </p>
