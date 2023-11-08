@@ -38,3 +38,7 @@
   • Conducting photogrammetry and laser acoustic imaging of the surface throughout model runs and visualised changes in (paleo)topography using Agisoft Metashape and CloudCompare.</br>
   • Aggregrating and visualising data in Python using numpy, pandas and matplotlib to show tectonic plate shortening, thickening, and to create deformation maps tracking displacement and strain within the plates.
 </p>
+
+<p>
+  Please note that these projects are currently unpublished and so the associated code is not yet publicly available on my GitHub. The code for these projects will be made publicly available once the projects are published.
+</p>
