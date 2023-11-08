@@ -14,14 +14,14 @@
 ## My Professional Experience
   <p align="center">
 <a href="https://www.linkedin.com/in/hayleyhunt/">LinkedIn</a></p>
-  <p>For the past 3 years I have been working full-time towards my PhD in Geology at The University of Hong Kong. I have been able to gain much experience in data generation, manipulation/extraction, and visualisation.</p>
+  <p>For the past 3 years and until August 2024 I have been working full-time towards my PhD in Geology at The University of Hong Kong. I have been able to gain much experience in data generation, manipulation/extraction, and visualisation.</p>
 
 ## My Projects
 
 ### Himalayan River Network Response To Progressive Himalayan Uplift, PhD project (2022-present)
 <p>
   • Creating landscape evolution numerical models of the Himalaya using FastScape and xarray-simlab, implemented in Python.</br>
-  • Running models over a complex search space to find the optimal hyperparameters via distributed computing using the <a href="https://github.com/ARM-software/mango">Mango</a> hyperparameter tuning library.</br>
+  • Running multiple models over a complex search space to find the optimal hyperparameters via distributed computing using the <a href="https://github.com/ARM-software/mango">Mango</a> hyperparameter tuning library.</br>
   • Aggregrating and visualising data using numpy, pandas and matplotlib to understand model behaviour by presenting different aspects of the model including river profiles and changes in topography through time.</br>
   • Calibrating model outputs to reality by creating a misfit function and validated the model using multiple independent datasets including thermochronologic, GPS, and cosmogenic nuclide data.
 </p>
