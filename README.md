@@ -1,6 +1,4 @@
 # Portfolio
-<p align="center">
-<img src="https://github.com/hayleyhunt/data-website/blob/main/images/Hayley%20Hunt.jpeg" height=300></p>
 <p>Hi, my name is Hayley Hunt.</p>
 <p>I am a fourth and final year PhD student at The University of Hong Kong.</p>
 
