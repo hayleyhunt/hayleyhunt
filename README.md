@@ -9,7 +9,7 @@
 ## My Website
 <p align="center">
 <a href="https://www.hayley-hunt.com">Website</a></p>
-  <p>I built the website in HTML and CSS and I am currently in the process of optimising it for mobile phones and tablets. I believe web-application design is a useful tool that helps me as a data analyst present my findings and insights in an accessible, clear and organized way. This permits sharing of my work easily through a company intranet, or publicly available on a company website. Though I did learn a lot from making this website, much of the joy that came from this project was found making something of my own and putting it out into the world.</p>
+  <p>I built the website in HTML, CSS and Javascript. I believe web-application design is a useful tool that helps me as a data analyst present my findings and insights in an accessible, clear and organized way. This permits sharing of my work easily through a company intranet, or publicly available on a company website. Though I did learn a lot from making this website, much of the joy that came from this project was found making something of my own and putting it out into the world.</p>
 
 ## My Professional Experience
   <p align="center">
