@@ -43,6 +43,6 @@
 
 ## My Personal Projects
 <p>
-    • Web scraping using Selenium of data from the WOWPresents YouTube channel.
+    • Web scraping using <a href="https://selenium-python.readthedocs.io">Selenium</a> of data from the <a href="https://www.youtube.com/@WOWPresents">WOWPresents YouTube channel</a>.
     • Data Analysis and visualization of the number of views of different video types, countries, US and All Star seasons, and queens of RuPaul's Drag Race and WowPresents YouTube channels. Find the project <a href="https://github.com/hayleyhunt/rupaulsdragrace_youtube/tree/main">here</a>.</br>
 </p>
