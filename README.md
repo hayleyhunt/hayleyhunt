@@ -12,7 +12,7 @@
 ## My Professional Experience
   <p align="center">
 <a href="https://www.linkedin.com/in/hayleyhunt/">LinkedIn</a></p>
-  <p>For the past 3 years and until August 2024 I have been working full-time towards my PhD in Geology at The University of Hong Kong. I have been able to gain much experience in data generation, manipulation/extraction, and visualisation.</p>
+  <p>For the past 4 years and until November 2024 I have been working full-time towards my PhD in Earth System Science at The University of Hong Kong. I have been able to gain much experience in data generation, extraction, manipulation, and visualisation.</p>
 
 ## My PhD Projects
 
@@ -42,6 +42,9 @@
 </p>
 
 ## My Personal Projects
+<p>
+    • Identification and diagnosis of a chiller system using data analysis and visualisation, with analysis. Find the project <a href="https://github.com/hayleyhunt/HVAC_diagnosis/tree/main">here</a>.</br>
+</p>
 <p>
     • Web scraping using <a href="https://selenium-python.readthedocs.io">Selenium</a> of data from the <a href="https://www.youtube.com/@WOWPresents">WOWPresents YouTube channel</a>.</br>
     • Data Analysis and visualization of the number of views of different video types, countries, US and All Star seasons, and queens of RuPaul's Drag Race and WowPresents YouTube channels. Find the project <a href="https://github.com/hayleyhunt/rupaulsdragrace_youtube/tree/main">here</a>.</br>
