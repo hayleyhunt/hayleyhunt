@@ -12,7 +12,7 @@
 ## My Professional Experience
   <p align="center">
 <a href="https://www.linkedin.com/in/hayleyhunt/">LinkedIn</a></p>
-  <p>For the past 4 years and until November 2024 I have been working full-time towards my PhD in Earth System Science at The University of Hong Kong. I have been able to gain much experience in data generation, extraction, manipulation, and visualisation.</p>
+  <p>For the past 4 years I have been working full-time towards my PhD in Earth System Science at The University of Hong Kong. I have been able to develop expertise in data generation, extraction, manipulation, and visualisation.</p>
 
 ## My PhD Projects
 
