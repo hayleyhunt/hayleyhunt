@@ -1,6 +1,6 @@
 # Portfolio
 <p>Hi, my name is Hayley Hunt.</p>
-<p>I am a fourth and final year PhD student at The University of Hong Kong.</p>
+<p>I am a recent PhD graduate from The University of Hong Kong.</p>
 
 # Get to Know Me 
 
